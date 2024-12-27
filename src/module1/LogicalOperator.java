@@ -2,7 +2,7 @@ package module1;
 
 /**
  * The `LogicalOperator` class demonstrates the use of logical operators
- * (`&&`, `||`, and `!`) in Java. It evaluates logical expressions based on
+ * in Java. It evaluates logical expressions based on
  * the input boolean values and prints the results.
  *
  * @author Sheikh Md. Sazidul Islam
