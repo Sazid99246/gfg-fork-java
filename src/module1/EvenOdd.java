@@ -6,6 +6,11 @@ import java.util.Scanner;
  * The `EvenOdd` class demonstrates decision-making in Java by checking if a number is even or odd
  * and printing two integers in a specific order based on the result.
  * If the first number is even, it is printed first; otherwise, the second number is printed first.
+ *
+ * @author Sheikh Md. Sazidul Islam
+ * @since 27/12/2024
+ * @version 3.0
+ * @see <a href="https://github.com/sazid99246">My Github</a>
  */
 public class EvenOdd {
 

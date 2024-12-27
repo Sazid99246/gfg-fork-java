@@ -6,6 +6,11 @@ import java.util.Scanner;
  * A program to demonstrate various bitwise operations in Java.
  * It performs operations such as XOR, AND, OR, and NOT on integers
  * and prints the results.
+ *
+ * @author Sheikh Md. Sazidul Islam
+ * @since 27/12/2024
+ * @version 3.0
+ * @see <a href="https://github.com/sazid99246">My Github</a>
  */
 public class BitwiseOperators {
 
