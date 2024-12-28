@@ -28,6 +28,6 @@ public class CountSpecial {
     }
 
     public static void main(String[] args) {
-        countSpecials(new int[]{1,2,3,4,5,6,7,8,9,10},3);
+        System.out.println(countSpecials(new int[]{1,2,3,4,5,6,7,8,9,10},3));
     }
 }
